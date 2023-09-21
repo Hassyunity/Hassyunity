@@ -10,7 +10,10 @@ I'm Hassy Tsihoarana, a web developer specializing in automated testing
 
 ## Technologies
 
-<div style="display: flex; flex-wrap: wrap;">
+## Testing
+## Technologies
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <div style="flex: 50%; padding: 10px;">
     <strong>Ruby on Rails (RSpec):</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png" width="16"> Specific emphasis on writing tests using the RSpec framework.
   </div>
@@ -21,7 +24,7 @@ I'm Hassy Tsihoarana, a web developer specializing in automated testing
 
 ## Coding Preferences
 
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <div style="flex: 33%; padding: 10px;">
     <strong>Ruby on Rails:</strong> <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="16">
   </div>
