@@ -21,7 +21,7 @@ Connect with me on
     <td>
       <strong>Ruby on Rails (RSpec):</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png" width="16"> Specific emphasis on writing tests using the RSpec framework.
       <br>
-      <strong>JavaScript (Cypress):</strong> <img src="/images/cypress/cy.svg" width="16"> I also use Cypress for end-to-end testing in JavaScript.
+      <strong>JavaScript (Cypress):</strong> <img src="/images/cy.svg" width="25"> I also use Cypress for end-to-end testing in JavaScript.
       <br>
       <strong>Cucumber </strong> <img src="/images/logo.svg" width="16"> I use Cucumber for BDD testing.
     </td>
