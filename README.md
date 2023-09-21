@@ -7,7 +7,7 @@ I'm Hassy Tsihoarana, a web developer specializing in automated testing
 
 Connect with me on
 <a href="https://www.linkedin.com/feed/" target="_blank">
-  <img src="/images/linkedin.svg" alt="Logo LinkedIn" width="20" >
+  <img src="/images/linkedin.svg" alt="Logo LinkedIn" width="20" target="_blank">
 </a> to stay updated on my professional journey.
 
 ## Technologies
