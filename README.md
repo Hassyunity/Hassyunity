@@ -12,17 +12,18 @@ I'm Hassy Tsihoarana, a web developer specializing in automated testing
 
 ### Testing
 
-* **Ruby on Rails (RSpec):** ! specific emphasis on writing tests using the RSpec framework. 
+* **Ruby on Rails (RSpec):** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png" width="16"> Specific emphasis on writing tests using the RSpec framework.
 
-* **JavaScript (Cypress):** ![Cypress Logo](https://docs.cypress.io/img/logo-cypress.png) I also use Cypress for end-to-end testing in JavaScript.
+* **JavaScript (Cypress):** <img src="https://docs.cypress.io/img/logo-cypress.png" width="16"> I also use Cypress for end-to-end testing in JavaScript.
 
 ### Coding Preferences
 
-* **Ruby on Rails:** ![Ruby Logo](https://www.ruby-lang.org/images/header-ruby-logo.png) 
+* **Ruby on Rails:** <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="16">
 
-* **Vue.js:** ![Vue.js Logo](https://vuejs.org/images/logo.png) 
+* **Vue.js:** <img src="https://vuejs.org/images/logo.png" width="16">
 
-* **react.js:** ![react.js Logo](https://reactjs.org/logo-og.png)
+* **React.js:** <img src="https://reactjs.org/logo-og.png" width="16">
+
 
 ## Contact
 
