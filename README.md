@@ -23,7 +23,7 @@ Connect with me on
       <br>
       <strong>JavaScript (Cypress):</strong> <img src="/images/cy.svg" width="25"> I also use Cypress for end-to-end testing in JavaScript.
       <br>
-      <strong>Cucumber </strong> <img src="/images/logo.svg" width="16"> I use Cucumber for BDD testing.
+      <strong>Cucumber </strong> <img src="/images/logo.svg" width="16"> I use Cucumber for create tests scenarios.
     </td>
     <td>
       <strong>Ruby on Rails:</strong> <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="16">
