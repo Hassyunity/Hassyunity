@@ -5,7 +5,7 @@ I'm Hassy Tsihoarana, a web developer specializing in automated testing
 ## About Me
 💼 Check out my **[Portfolio](https://hassy-tsihoarana.netlify.app/)** to see some of my projects in action.
 
-🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/feed/)** to stay updated on my professional journey.
+🔗 Connect with me on **[LinkedIn](/images/linkedin.svg)** to stay updated on my professional journey.
 
 
 ## Technologies
