@@ -3,9 +3,8 @@
 I'm Hassy Tsihoarana, a web developer specializing in automated testing
 
 ## About Me
-<div target="blank">
 💼 Check out my **[Portfolio](https://hassy-tsihoarana.netlify.app/)** to see some of my projects in action.
-</div>
+
 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/feed/)** to stay updated on my professional journey.
 
 
