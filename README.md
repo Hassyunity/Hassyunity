@@ -20,6 +20,8 @@ I'm Hassy Tsihoarana, a web developer specializing in automated testing
       <strong>Ruby on Rails (RSpec):</strong> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png" width="16"> Specific emphasis on writing tests using the RSpec framework.
       <br>
       <strong>JavaScript (Cypress):</strong> <img src="https://docs.cypress.io/img/logo-cypress.png" width="16"> I also use Cypress for end-to-end testing in JavaScript.
+      <br>
+      <strong>Cucumber </strong> <img src="https://cucumber.io/images/logo.svg" width="16"> I use Cucumber for BDD testing.
     </td>
     <td>
       <strong>Ruby on Rails:</strong> <img src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="16">
