@@ -1,12 +1,14 @@
-# Hassy Tsihoarana 🇲🇬 
+# Hassy Tsihoarana 🇲🇬
 
 I'm Hassy Tsihoarana, a web developer specializing in automated testing
 
 ## About Me
 💼 Check out my **[Portfolio](https://hassy-tsihoarana.netlify.app/)** to see some of my projects in action.
-<img src="/images/linkedin.svg" width="16">
 
-Connect with me on **[LinkedIn](https://www.linkedin.com/feed/)** to stay updated on my professional journey.
+Connect with me on
+<a href="https://www.linkedin.com/feed/" target="_blank">
+  <img src="/images/linkedin.svg" alt="Logo LinkedIn" width="16" >
+</a> to stay updated on my professional journey.
 
 ## Technologies
 
