@@ -12,7 +12,7 @@ I'm Hassy Tsihoarana, a web developer specializing in automated testing
 
 <table>
   <tr>
-    <th>Testings</th>
+    <th>Testing</th>
     <th>Coding Preferences</th>
   </tr>
   <tr>
