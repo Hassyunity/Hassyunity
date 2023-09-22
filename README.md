@@ -34,8 +34,3 @@ Connect with me on
     </td>
   </tr>
 </table>
-
-
-
-## Contact
-
