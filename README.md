@@ -30,7 +30,7 @@ Connect with me on
       <br>
       <strong>Vue.js:</strong> <img src="https://vuejs.org/images/logo.png" width="16">
       <br>
-      <strong>React.js:</strong> <img src="https://reactjs.org/logo-og.png" width="16">
+      <strong>React.js:</strong> <img src="https://reactjs.org/logo-og.png" width="25">
     </td>
   </tr>
 </table>
