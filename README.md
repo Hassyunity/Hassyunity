@@ -1,6 +1,6 @@
 # Hassy Tsihoarana 🇲🇬
 
-I'm Hassy Tsihoarana, a web developer specializing in automated testing and ruby on rails
+I'm Hassy Tsihoarana, a web developer specializing in automated testing, ruby on rails and node.js
 
 ## About Me
 💼 Check out my **[Portfolio](https://hassy.onrender.com)** to see some of my projects in action.
