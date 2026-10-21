@@ -3,7 +3,7 @@
 I'm Hassy Tsihoarana, a web developer specializing in automated testing, ruby on rails and node.js
 
 ## About Me
-💼 Check out my **[Portfolio](https://hassy.onrender.com)** to see some of my projects in action.
+💼 Check out my **[Portfolio](https://hassy.is-a.dev/)** to see some of my projects in action.
 
 Connect with me on
 <a href="https://www.linkedin.com/feed/" target="_blank">
